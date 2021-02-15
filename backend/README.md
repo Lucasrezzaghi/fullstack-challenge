@@ -35,3 +35,23 @@ The following endpoints should return a JSON response:
 * `/api/orders` (list of orders)
 * `/api/orders/:id` (details of an individual order)
 * `/api/pizzas` (list of pizzas; see './backend/example-pizzas.json')
+
+Project solution by Lucasrezzaghi
+-----------------
+JSON API made with node.js + express
+
+Running the app
+---------------
+
+##### Clone the repository:
+```sh
+git clone https://github.com/Lucasrezzaghi/fullstack-challenge.git
+```
+##### Go to backend folder and run node app.js
+```sh
+cd backend
+node app.js
+```
+
+
+
